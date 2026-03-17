@@ -25,7 +25,9 @@
 使用技術
 
 Unity Animation
+
 Rigidbody2D 物理系統
+
 可擴展有限狀態機（FSM）設計
 
 
